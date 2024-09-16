@@ -1,0 +1,6 @@
+{
+    "api_id": YOUR_API_ID,
+    "api_hash": "YOUR_API_HASH",
+    "max_retries": 3,
+    "threads": 10
+}
